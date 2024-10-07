@@ -1,0 +1,5 @@
+outs:
+- md5: bbc54271428480fdcabb512a347caab8
+  size: 279465297
+  hash: md5
+  path: demuxafy-files.zip
