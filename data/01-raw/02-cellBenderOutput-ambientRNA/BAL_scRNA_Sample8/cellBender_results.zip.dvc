@@ -1,0 +1,5 @@
+outs:
+- md5: aa45498e2ec496fa41dde51a3bcaf3e5
+  size: 297653183
+  hash: md5
+  path: cellBender_results.zip
