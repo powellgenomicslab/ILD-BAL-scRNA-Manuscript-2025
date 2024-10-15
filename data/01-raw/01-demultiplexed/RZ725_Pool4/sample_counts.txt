@@ -1,0 +1,9 @@
+0_B6-RZ725 4184
+0_B4-RZ725 5214
+0_B5-RZ725 3408
+unassigned 972
+MajoritySinglet_Individual_Assignment 1
+doublet 3829
+0_B1-RZ725 4127
+0_B2-RZ725 2059
+0_B3-RZ725 3377

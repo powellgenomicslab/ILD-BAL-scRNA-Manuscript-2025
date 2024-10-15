@@ -1,0 +1,9 @@
+0_P9-RZ725 3609
+0_P10-RZ725 5018
+unassigned 561
+MajoritySinglet_Individual_Assignment 1
+0_P11-RZ725 2030
+doublet 4331
+0_P12-RZ725 4755
+0_P7-RZ725 4199
+0_P8-RZ725 2289
