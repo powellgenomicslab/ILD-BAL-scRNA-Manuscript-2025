@@ -1,0 +1,5 @@
+outs:
+- md5: ee5906387f412e82d90a662bb9f24c8c
+  size: 1222890847
+  hash: md5
+  path: integrated.RDS
