@@ -14,16 +14,16 @@ library(tidyverse)
 # pagwas_3way[['umap']] <- CreateDimReducObject(embeddings = umap_coord, key = "UMAP_", global = T, assay = "RNA")
 BAL_allen_normalised_reannotated <- readRDS("data/02-preprocessed/BAL_allen_normalised_reannotated.rds")
 cell_meta <- read_csv("data/02-preprocessed/corrected_metadata.csv")
-macrophage_meta <- read_csv("data/02-preprocessed/mdm_cluster_metadata.csv")
+# macrophage_meta <- read_csv("data/02-preprocessed/mdm_cluster_metadata.csv")
 
 cell_meta$IPF[match(rownames(BAL_allen_normalised_reannotated@meta.data), cell_meta$...1)] -> BAL_allen_normalised_reannotated@meta.data$IPF
 cell_meta$telomere_length[match(rownames(BAL_allen_normalised_reannotated@meta.data), cell_meta$...1)] -> BAL_allen_normalised_reannotated@meta.data$telomere_length
 cell_meta$disease_final[match(rownames(BAL_allen_normalised_reannotated@meta.data), cell_meta$...1)] -> BAL_allen_normalised_reannotated@meta.data$disease_final
 
-macrophage_meta$mdm_clusters <- paste0("mdm_", macrophage_meta$mdm_clusters)
-matching_barcodes <- na.omit(match(macrophage_meta$...1,rownames(BAL_allen_normalised_reannotated@meta.data)))
-BAL_allen_normalised_reannotated@meta.data$Cell_Subtype <- as.character(BAL_allen_normalised_reannotated@meta.data$Cell_Subtype)
-BAL_allen_normalised_reannotated@meta.data$Cell_Subtype[matching_barcodes] <- macrophage_meta$mdm_clusters[na.omit(match(rownames(BAL_allen_normalised_reannotated@meta.data), macrophage_meta$...1))]
+# macrophage_meta$mdm_clusters <- paste0("mdm_", macrophage_meta$mdm_clusters)
+# matching_barcodes <- na.omit(match(macrophage_meta$...1,rownames(BAL_allen_normalised_reannotated@meta.data)))
+# BAL_allen_normalised_reannotated@meta.data$Cell_Subtype <- as.character(BAL_allen_normalised_reannotated@meta.data$Cell_Subtype)
+# BAL_allen_normalised_reannotated@meta.data$Cell_Subtype[matching_barcodes] <- macrophage_meta$mdm_clusters[na.omit(match(rownames(BAL_allen_normalised_reannotated@meta.data), macrophage_meta$...1))]
 
 Idents(object = BAL_allen_normalised_reannotated) <- "Cell_Subtype"
 BAL_allen_normalised_reannotated <- NormalizeData(BAL_allen_normalised_reannotated, normalization.method = "LogNormalize", scale.factor = 10000)
