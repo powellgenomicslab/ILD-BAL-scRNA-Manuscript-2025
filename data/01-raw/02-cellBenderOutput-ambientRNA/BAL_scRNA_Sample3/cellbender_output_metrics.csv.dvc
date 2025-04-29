@@ -1,6 +1,0 @@
-outs:
-- md5: 60bde684609d19be21e95efe1b26acde
-  size: 580
-  isexec: true
-  hash: md5
-  path: cellbender_output_metrics.csv

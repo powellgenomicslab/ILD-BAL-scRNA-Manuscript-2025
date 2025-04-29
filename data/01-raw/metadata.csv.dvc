@@ -1,6 +1,0 @@
-outs:
-- md5: f9c820c1a100503c4919ed66f3eb49e3
-  size: 25938
-  isexec: true
-  hash: md5
-  path: metadata.csv

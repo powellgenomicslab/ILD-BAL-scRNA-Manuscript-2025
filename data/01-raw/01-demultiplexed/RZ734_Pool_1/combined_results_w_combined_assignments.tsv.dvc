@@ -1,6 +1,0 @@
-outs:
-- md5: a551730fcde49142ecbc569e1e263686
-  size: 2731229
-  isexec: true
-  hash: md5
-  path: combined_results_w_combined_assignments.tsv

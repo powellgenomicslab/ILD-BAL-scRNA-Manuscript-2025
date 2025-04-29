@@ -1,9 +1,0 @@
-0_B11-RZ725 5215
-0_B7-RZ725 4248
-0_B12-RZ725 4795
-unassigned 1465
-MajoritySinglet_Individual_Assignment 1
-0_B8-RZ725 3218
-0_B9-RZ725 5555
-doublet 4333
-0_B10-RZ725 36

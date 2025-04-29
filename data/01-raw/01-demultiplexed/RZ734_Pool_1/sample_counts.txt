@@ -1,8 +1,0 @@
-RZ734-17P 3077
-unassigned 428
-MajoritySinglet_Individual_Assignment 1
-RZ734-8P 3305
-doublet 1983
-RZ734-10P 4237
-RZ734-12P 2764
-RZ734-1B 3113

@@ -1,6 +1,0 @@
-outs:
-- md5: 67bfa81f598599fdbf1fb5e4a6052df1
-  size: 108323728
-  isexec: true
-  hash: md5
-  path: cellbender_output_filtered.h5
