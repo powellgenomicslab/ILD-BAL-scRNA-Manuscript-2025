@@ -1,8 +1,0 @@
-*.tsv
-*.csv
-cellbender_output_filtered.h5
-*.h5ad
-logs/
-venv/
-software/
-notebooks/.ipynb_checkpoints/
