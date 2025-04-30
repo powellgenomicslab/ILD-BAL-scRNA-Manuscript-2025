@@ -93,8 +93,8 @@ For any questions, please contact either:
 
 | Author | Contact |
 | :----- | :------ |
-| Lai-Ying Zhang   | <a href="mailto:Lai-Ying.Zhang@health.qld.gov.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a> |
-| Peter C. Allen | <a href="mailto:p.allen@garvan.org.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a><a href="https://github.com/PeterCAllen"><img src="https://github.com/user-attachments/assets/35eceb13-d725-4108-9791-57ca28776e5c" width="20" height="20" /></a> |
+| Lai-Ying Zhang   | <a href="mailto:Lai-Ying.Zhang@health.qld.gov.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a><a href="https://github.com/laiyingz"><img src="https://github.com/user-attachments/assets/35eceb13-d725-4108-9791-57ca28776e5c" width="20" height="20" /></a> |
+| Peter C. Allen | <a href="mailto:p.allen@garvan.org.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a><a href="https://petercallen.github.io"><img src="https://github.com/user-attachments/assets/35eceb13-d725-4108-9791-57ca28776e5c" width="20" height="20" /></a> |
 
 
 
