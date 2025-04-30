@@ -7,10 +7,10 @@ This repository contains the code and data used to generate the figures in the m
 ---
 
 ## 🧾 Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
+- [Overview](#-overview)
+- [Installation](https://github.com/PeterCAllen/ILD-BAL-scRNA-Manuscript-2025/tree/main?tab=readme-ov-file#-installation)
 - [Usage](#usage)
-- [Figure Reproduction Guide](#figure-reproduction-guide)
+- [Figure Reproduction Guide](https://github.com/PeterCAllen/ILD-BAL-scRNA-Manuscript-2025/tree/main?tab=readme-ov-file#%EF%B8%8F-figure-reproduction-guide)
 - [Data](#data)
 - [Citation](#citation)
 - [Contact](#contact)
