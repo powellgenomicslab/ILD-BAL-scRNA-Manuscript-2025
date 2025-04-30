@@ -6,24 +6,24 @@ This repository contains the code and data used to generate the figures in the m
 
 ---
 
-## 🧾 Table of Contents
+## <img src="https://github.com/user-attachments/assets/0ff42912-3def-49d1-8afc-3dc7bb72c401" width="20" height="20"> Table of Contents
 - [Overview](#-overview)
 - [Installation](#-installation)
-- [Usage](#-usage)
-- [Figure Reproduction Guide](https://github.com/PeterCAllen/ILD-BAL-scRNA-Manuscript-2025/tree/main?tab=readme-ov-file#%EF%B8%8F-figure-reproduction-guide)
+- [Usage](#usage)
+- [Figure Reproduction Guide](#-figure-reproduction-guide)
 - [Data](#-data)
 - [Citation](#-citation)
 - [Contact](#-contact)
 
 ---
 
-## 📘 Overview
+## <img src="https://github.com/user-attachments/assets/f451df92-7cda-41eb-906d-85f18984cb96" width="20" height="20"> Overview
 
 This repository provides the source code and data to reproduce the plots and results presented in the manuscript. Each figure in the paper corresponds to a notebook in the `src/` directory.
 
 ---
 
-## 💻 Installation
+## <img src="https://github.com/user-attachments/assets/8236200d-8a12-45af-997b-890bd235c070" width="20" height="20"> Installation
 
 Clone the repository:
 
@@ -41,7 +41,7 @@ conda activate ild-bal-scrna
 
 ---
 
-## ▶️ Usage
+## Usage
 
 Each figure can be reproduced using the associated script or notebook. For example:
 
@@ -53,7 +53,7 @@ jupyter notebook src/figure-1.ipynb
 
 ---
 
-## 🖼️ Figure Reproduction Guide
+## <img src="https://github.com/user-attachments/assets/a53e141d-5f80-4d1d-9548-bec3d2a148bb" width="20" height="20"> Figure Reproduction Guide
 
 | Figure | Notebook | Notes |
 |--------|-------------------|-------|
@@ -65,13 +65,13 @@ jupyter notebook src/figure-1.ipynb
 
 ---
 
-## 📁 Data
+## <img src="https://github.com/user-attachments/assets/18888156-054a-47ba-9f08-a1c6283912ca" width="20" height="20"> Data
 
 Some figures rely on preprocessed datasets stored in the `data/` directory. Due to size or licensing constraints, some datasets may need to be downloaded manually. See `data/README.md` for instructions.
 
 ---
 
-## 📄 Citation
+## <img src="https://github.com/user-attachments/assets/f33c77bc-8b93-4d14-8531-ae6e18c84027" width="20" height="20"> Citation
 
 If you use this code or data in your research, please cite:
 
@@ -87,15 +87,20 @@ If you use this code or data in your research, please cite:
 
 ---
 
-## 📬 Contact
+## <img src="https://github.com/user-attachments/assets/9e5b5c7a-bac5-44cb-a568-6e8e03c88017" width="20" height="20"> Contact
 
 For any questions, please contact either:
 
-Lai-Ying Zhang
-<a href="mailto:Lai-Ying.Zhang@health.qld.gov.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a>
+| Author | Contact |
+| :----- | :------ |
+| Lai-Ying Zhang   | <a href="mailto:Lai-Ying.Zhang@health.qld.gov.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a> |
+| Peter C. Allen | <a href="mailto:p.allen@garvan.org.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a><a href="https://github.com/PeterCAllen"><img src="https://github.com/user-attachments/assets/35eceb13-d725-4108-9791-57ca28776e5c" width="20" height="20" /></a> |
 
-Peter C. Allen 
-<a href="mailto:p.allen@garvan.org.au"><img src="https://github.com/user-attachments/assets/d100bf6e-37cd-458a-aacc-737b26d18b55" width="20" height="20" /></a>
-<a href="https://github.com/PeterCAllen"><img src="https://github.com/user-attachments/assets/35eceb13-d725-4108-9791-57ca28776e5c" width="20" height="20" /></a>
+
+
+
+
+
+ 
 
 Otherwise, [raise an issue](https://github.com/PeterCAllen/ILD-BAL-scRNA-Manuscript-2025/issues/new) in the repository and we will address it.
