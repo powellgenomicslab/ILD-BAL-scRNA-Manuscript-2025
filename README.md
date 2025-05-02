@@ -2,7 +2,7 @@
 
 This repository contains the code and data used to generate the figures in the manuscript:
 
-> L.Y. Zhang\*, P.C. Allen\*, _et al._ Cellular Transcriptomics of Bronchoalveolar Fluid Reveals Insight into Mechanisms of Human Pulmonary Fibrosis. _Pending Review._ 
+> L.Y. Zhang\*, P.C. Allen\*, _et al._ Transcriptomics of Alveolar Immune Cells Reveals Insight into Mechanisms of Human Pulmonary Fibrosis. _Pending Review._ 
 
 ---
 
@@ -28,8 +28,8 @@ This repository provides the source code and data to reproduce the plots and res
 Clone the repository:
 
 ```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+git clone https://github.com/powellgenomicslab/ILD-BAL-scRNA-Manuscript-2025.git
+cd ILD-BAL-scRNA-Manuscript-2025
 ```
 
 Create a [conda](https://docs.conda.io) environment and install dependencies:
@@ -77,7 +77,7 @@ If you use this code or data in your research, please cite:
 
 ```
 @article{<zhangallen2025>,
-  title={Cellular Transcriptomics of Bronchoalveolar Fluid Reveals Insight into Mechanisms of Human Pulmonary Fibrosis},
+  title={Transcriptomics of Alveolar Immune Cells Reveals Insight into Mechanisms of Human Pulmonary Fibrosis},
   author={Zhang, Lai-Ying and Allen, Peter C.},
   journal={pending},
   year={2025},
